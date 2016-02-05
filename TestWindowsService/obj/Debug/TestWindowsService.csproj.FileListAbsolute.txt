@@ -1,0 +1,8 @@
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe.config
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.exe
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\bin\Debug\TestWindowsService.pdb
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csprojResolveAssemblyReference.cache
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.ProjectInstaller.resources
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.csproj.GenerateResource.Cache
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.exe
+c:\users\sunny-pc\documents\visual studio 2015\Projects\TestWindowsService\TestWindowsService\obj\Debug\TestWindowsService.pdb
